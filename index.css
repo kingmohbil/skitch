@@ -1,0 +1,15 @@
+.child1{
+
+    display: flex;
+    flex:1 1 auto;
+}
+
+.container{
+margin:auto;
+border: 10px solid black;
+display: flex;
+flex-direction: column;
+height: 500px;
+width: 500px;
+
+}
